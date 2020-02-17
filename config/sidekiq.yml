@@ -1,0 +1,4 @@
+:schedule:
+  post_job:
+  every: 1m
+  class: PostJob
